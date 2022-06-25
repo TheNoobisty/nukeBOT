@@ -1,0 +1,17 @@
+{
+  "name": "custombot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "custom"
+  ],
+  "author": "madzz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.0"
+  }
+}
